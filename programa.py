@@ -1,1 +1,1 @@
-print("hello\nworld")
+print("\n".join(["hello", "world"]))
